@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b044420-d1ba-48ce-a734-b765ded51539" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codility/javaSearch.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2W81LT8n9IdYFvcWgdjBEznjNfK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/victorcarrillo/Documents/work/github-personal/practice-java-fundamentals/pom.xml"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.javaSearch.verifySearchResults">
+    <configuration name="javaSearch.verifyElementsAreVisible" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice-java-interview" />
+      <option name="PACKAGE_NAME" value="codility" />
+      <option name="MAIN_CLASS_NAME" value="codility.javaSearch" />
+      <option name="METHOD_NAME" value="verifyElementsAreVisible" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javaSearch.verifyEmptySearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice-java-interview" />
+      <option name="PACKAGE_NAME" value="codility" />
+      <option name="MAIN_CLASS_NAME" value="codility.javaSearch" />
+      <option name="METHOD_NAME" value="verifyEmptySearch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javaSearch.verifySearchMultipleResults" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice-java-interview" />
+      <option name="PACKAGE_NAME" value="codility" />
+      <option name="MAIN_CLASS_NAME" value="codility.javaSearch" />
+      <option name="METHOD_NAME" value="verifySearchMultipleResults" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javaSearch.verifySearchNoResults" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice-java-interview" />
+      <option name="PACKAGE_NAME" value="codility" />
+      <option name="MAIN_CLASS_NAME" value="codility.javaSearch" />
+      <option name="METHOD_NAME" value="verifySearchNoResults" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javaSearch.verifySearchResults" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice-java-interview" />
+      <option name="PACKAGE_NAME" value="codility" />
+      <option name="MAIN_CLASS_NAME" value="codility.javaSearch" />
+      <option name="METHOD_NAME" value="verifySearchResults" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.javaSearch.verifySearchResults" />
+        <item itemvalue="JUnit.javaSearch.verifySearchMultipleResults" />
+        <item itemvalue="JUnit.javaSearch.verifyElementsAreVisible" />
+        <item itemvalue="JUnit.javaSearch.verifySearchNoResults" />
+        <item itemvalue="JUnit.javaSearch.verifyEmptySearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b044420-d1ba-48ce-a734-b765ded51539" name="Changes" comment="" />
+      <created>1696099337329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696099337329</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/codility/javaSearch.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/codility/javaSearch.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/codility/javaSearch.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/codility/javaSearch.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/codility/javaSearch.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/codility/javaSearch.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/codility/javaSearch.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/codility/javaSearch.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/codility/javaSearch.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/codility/javaSearch.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -5,13 +5,14 @@ import java.util.Map;
 import java.util.Stack;
 
 public class solutionvalidparentehsis {
-    /*
+
    public static boolean isValid(String s) {
-        Map<Character,Character> mappings = new HashMap<Character,Character>(){
-            put(')', '(');
-            put('}', '{');
-            put(']', '[');
-        };
+        HashMap<Character,Character> mappings = new HashMap<Character,Character>();
+
+            mappings.put(')', '(');
+            mappings.put('}', '{');
+            mappings.put(']', '[');
+
 
         Stack<Character> letters = new Stack<>();
     
@@ -37,5 +38,5 @@ public class solutionvalidparentehsis {
       System.out.println(isValid("(]"));
     }
 
-     */
+
 }

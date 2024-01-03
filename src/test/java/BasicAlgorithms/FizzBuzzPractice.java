@@ -1,6 +1,6 @@
-package javaPracticeBasics;
+package BasicAlgorithms;
 
-public class FizzBuzzPractice {
+public class  FizzBuzzPractice {
 	
 	static int i ; 
 

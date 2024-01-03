@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b044420-d1ba-48ce-a734-b765ded51539" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Hackerrank/BankChatBotChallenge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BasicAlgorithms/FizzBuzzPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BasicAlgorithms/FizzBuzzPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BasicAlgorithms/solutionvalidparentehsis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BasicAlgorithms/solutionvalidparentehsis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +46,50 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/java/BasicAlgorithms" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/test/java/Hackerrank" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.PositionOfAString">
+    <configuration name="DuplicateCharactersInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicAlgorithms.DuplicateCharactersInAString" />
+      <module name="practice-java-interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicAlgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hackerrank.BankChatBotChallenge.Main" />
+      <module name="practice-java-interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hackerrank.BankChatBotChallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositionOfAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicAlgorithms.PositionOfAString" />
+      <module name="practice-java-interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicAlgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicAlgorithms.Solution" />
       <module name="practice-java-interview" />
@@ -58,53 +103,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaSearch.verifyElementsAreVisible" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="solutionvalidparentehsis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicAlgorithms.solutionvalidparentehsis" />
       <module name="practice-java-interview" />
-      <option name="PACKAGE_NAME" value="codility" />
-      <option name="MAIN_CLASS_NAME" value="codility.javaSearch" />
-      <option name="METHOD_NAME" value="verifyElementsAreVisible" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="javaSearch.verifySearchMultipleResults" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="practice-java-interview" />
-      <option name="PACKAGE_NAME" value="codility" />
-      <option name="MAIN_CLASS_NAME" value="codility.javaSearch" />
-      <option name="METHOD_NAME" value="verifySearchMultipleResults" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="javaSearch.verifySearchNoResults" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="practice-java-interview" />
-      <option name="PACKAGE_NAME" value="codility" />
-      <option name="MAIN_CLASS_NAME" value="codility.javaSearch" />
-      <option name="METHOD_NAME" value="verifySearchNoResults" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="javaSearch.verifySearchResults" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="practice-java-interview" />
-      <option name="PACKAGE_NAME" value="codility" />
-      <option name="MAIN_CLASS_NAME" value="codility.javaSearch" />
-      <option name="METHOD_NAME" value="verifySearchResults" />
-      <option name="TEST_OBJECT" value="method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicAlgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PositionOfAString" />
+        <item itemvalue="Application.solutionvalidparentehsis" />
+        <item itemvalue="Application.DuplicateCharactersInAString" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="JUnit.javaSearch.verifySearchResults" />
-        <item itemvalue="JUnit.javaSearch.verifySearchMultipleResults" />
-        <item itemvalue="JUnit.javaSearch.verifyElementsAreVisible" />
-        <item itemvalue="JUnit.javaSearch.verifySearchNoResults" />
       </list>
     </recent_temporary>
   </component>
@@ -171,6 +189,11 @@
           <url>file://$PROJECT_DIR$/src/test/java/codility/javaSearch.java</url>
           <line>62</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/BasicAlgorithms/BubbleSort.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
